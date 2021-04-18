@@ -10,4 +10,6 @@ She has her own opinion and can express it.
 * Mr Darcy
 * Charlott
 
-> every rich man is in need of a woma> every rich man is in need of a woman
+> every rich man is in need of a woman
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Elisabeth_Bennet_%28d%C3%A9tail%29.jpg"/>
